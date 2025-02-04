@@ -3,7 +3,7 @@
 🌟 About the Project<br>
 This is a responsive sidebar navigation designed for a photography portfolio or gallery website. It features a sleek sidebar menu with smooth animations, a background image, and social media links.
 
-<br><br>
+<br>
 
 🎨 Features<br>
 ✅ Stylish sidebar navigation menu<br>
@@ -12,7 +12,7 @@ This is a responsive sidebar navigation designed for a photography portfolio or 
 ✅ Font Awesome icons for an enhanced UI<br>
 ✅ Easy customization with HTML & CSS
 
-<br><br>
+<br>
 
 🛠️ Technologies Used<br>
 <ul>
